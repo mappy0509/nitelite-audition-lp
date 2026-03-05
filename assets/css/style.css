@@ -420,6 +420,14 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 500;
 }
 
+.stat-note {
+  display: block;
+  font-size: 0.7rem;
+  margin-top: 6px;
+  opacity: 0.7;
+  font-weight: 400;
+}
+
 /* ========================================
    Concept Section
    ======================================== */
